@@ -5,3 +5,4 @@ pydantic-settings>=2.1.0
 httpx>=0.26.0
 python-jose[cryptography]>=3.3.0
 tenacity>=8.2.0
+PyJWT
